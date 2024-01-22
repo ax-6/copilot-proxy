@@ -1,6 +1,6 @@
 {
     "version": 2,
     "routes": [
-      {"src": "/(.*)","dest": "https://ax-6-bing-copilot.hf.space/"}
+      {"src": "/(.*)","dest": "https://ax-6-copilot-proxy.hf.space"}
     ]
 }
